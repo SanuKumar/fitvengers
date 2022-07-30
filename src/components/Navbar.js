@@ -3,7 +3,6 @@ import { NavLink } from "react-router-dom";
 import { Stack } from "@mui/material";
 
 import Logo from "../assets/images/Logo.png";
-import { Height } from "@mui/icons-material";
 
 const Navbar = () => {
   return (
